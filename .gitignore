@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+*.d
+*.asm
+*.sym
+
+# Kernel binary
+kernel/kernel
+
+# Disk images
+fs.img
+*.img
+
+# mkfs tool
+mkfs/mkfs
+
+# GDB auto-generated config
+.gdbinit
+
+# User program binaries (compiled, no extension)
+user/initcode
+user/initcode.out
+
+# macOS system files
+.DS_Store
+
+# Editor/IDE files
+.vscode/
+*.swp
