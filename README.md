@@ -10,7 +10,7 @@ Four kernel projects built on top of xv6-riscv for CS3523 (Operating Systems II)
 3. **Page Replacement** — frame table, Clock eviction algorithm, in-memory swap ([`PA3/`])
 4. **Disk & RAID Swap** — disk-backed swap, FCFS/SSTF scheduling, RAID 0/1/5 ([`PA4/`])
 
-[`final-xv6/`] has everything merged into one working kernel.
+[`cs3523-xv6-26-m/`] has everything merged into one working kernel.
 
 ---
 ## Why This Project
